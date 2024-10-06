@@ -9,6 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://romainthibaud.com](https://romainthibaud.com)
 
-- 🐦 **@RomainsseAlors**
+- 🐦 **_Raumain**
 
 
