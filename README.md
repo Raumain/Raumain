@@ -12,3 +12,4 @@
 - 🐦 **_Raumain**
 
 
+[![Raumain's GitHub stats](https://github-readme-stats.vercel.app/api?username=raumain)](https://github.com/raumain/github-readme-stats)
