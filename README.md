@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Romain</h1>
 <h3 align="center">A junior web developer 💻</h3>
 
-- 🔭 I’m currently working on my [API Generator](https://github.com/Raumain/api_generator)
+- 🔭 I’m currently working on my [Database Handler CLI](https://github.com/Raumain/database-handler-cli)
 
-- 👨‍💻 All of my projects are available at [https://romainthibaud.com](https://romainthibaud.com) (not up to date)
+- 👨‍💻 All of my projects are available at [https://romainthibaud.com/portoflio](https://romainthibaud.com) (not up to date)
 
 - 🐦 **_Raumain**
 
