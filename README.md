@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romain</h1>
-<h3 align="center">A junior web developer 💻</h3>
+<h3 align="center">A web developer 💻</h3>
 
 - 🔭 I’m currently working on [Omnidump](https://github.com/Raumain/omnidump)
 
